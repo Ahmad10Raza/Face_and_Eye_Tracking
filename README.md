@@ -1,6 +1,6 @@
 Face and Eye Tracking using OpenCV
 
-![Demo GIF](demo.gif)
+![Demo GIF](https://github.com/Ahmad10Raza/Face_and_Eye_Tracking/blob/master/Face_and_Eye_Tracking.png)
 
 This project demonstrates real-time face and eye tracking using OpenCV, a popular computer vision library. It utilizes Haar Cascade Classifiers for face and eye detection and basic tracking.
 
